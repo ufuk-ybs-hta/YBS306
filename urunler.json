@@ -1,0 +1,74 @@
+[
+{
+"isim": "fırında pişirilmiş fasulye",
+"fiyat": 10.4,
+"resim": "fasulye.jpg",
+"tip": "sebze"
+},
+{
+"isim": "sosisli sandviç",
+"fiyat": 21.99,
+"resim": "sosisli.jpg",
+"tip": "et"
+},
+{
+"isim": "antrikot",
+"fiyat": 82.85,
+"resim": "antrikot.jpg",
+"tip": "et"
+},
+{
+"isim": "maydanoz",
+"fiyat": 10.99,
+"resim": "maydanoz.jpg",
+"tip": "sebze"
+},
+{
+"isim": "barbunya fasulyesi",
+"fiyat": 20.58,
+"resim": "barbunya.jpg",
+"tip": "sebze"
+},
+{
+"isim": "bezelye",
+"fiyat": 30.52,
+"resim": "bezelye.jpg",
+"tip": "sebze"
+},
+{
+"isim": "patates",
+"fiyat": 10.58,
+"resim": "patates.jpg",
+"tip": "sebze"
+},
+{
+"isim": "dana eti",
+"fiyat": 92.39,
+"resim": "danaeti.jpg",
+"tip": "et"
+},
+{
+"isim": "domates çorbası",
+"fiyat": 11.4,
+"resim": "domatesçorbası.jpg",
+"tip": "çorba"
+},
+{
+"isim": "doğranmış domatesler",
+"fiyat": 30.45,
+"resim": "domates.jpg",
+"tip": "sebze"
+},
+{
+"isim": "tavuk erişte çorbası",
+"fiyat": 11.89,
+"resim": "tavukerişteçorbası.jpg",
+"tip": "çorba"
+},
+{
+"isim": "havuç ve kişniş çorbası",
+"fiyat": 11.49,
+"resim": "havuçvekişnişçorbası.jpg",
+"tip": "çorba"
+}
+]
